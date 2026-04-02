@@ -83,7 +83,7 @@ function App() {
 
   return (
     <div className="app" ref={appRef}>
-      <div className="bg-watermark">K</div>
+      <div className="bg-watermark">Dasvio</div>
 
       <header className="header">
         <img src={dasvioLogo} alt="Dasvio" className="logo-img" />
